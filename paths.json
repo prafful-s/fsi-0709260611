@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/basumata/ub-bfsi-demo/language-masters/en:/",
+    "/content/basumata/ub-bfsi-demo/language-masters/en/:/en/",
+    "/content/basumata/ub-bfsi-demo/configuration:/.helix/config.json",
+    "/content/basumata/ub-bfsi-demo/metadata:/metadata.json",
+    "/content/basumata/ub-bfsi-demo/redirects:/redirects.json",
+    "/content/basumata/ub-bfsi-demo/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/basumata/ub-bfsi-demo/",
+    "/content/dam/basumata/ub-bfsi-demo/"
   ]
 }
